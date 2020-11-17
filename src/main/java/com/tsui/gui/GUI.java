@@ -128,7 +128,7 @@ public class GUI extends JFrame
 		p2.add(srcPathLabel);
 
 		p2.add(srcPathInput);
-		srcPathInput.setText("http://bolofski.freeservers.com/tobewithyou.mp3");
+		srcPathInput.setText("https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/DingTalkLite_v5.1.21.dmg");
 		p2.add(jProgBar);
 		jProgBar.setStringPainted(true);
 
